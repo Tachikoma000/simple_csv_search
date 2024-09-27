@@ -1,0 +1,4 @@
+pandas
+numpy
+openai==0.28.0
+faiss-cpu
